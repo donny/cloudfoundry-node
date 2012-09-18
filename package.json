@@ -1,0 +1,13 @@
+{
+	"name": "cloudfoundry-node",
+	"description": "Cloud Foundry Node",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"redis": ">=0.7.2",
+		"mongoose": ">=3.0.1",
+		"restify": ">=1.4.4",
+		"cloudfoundry": ">=0.1.0",
+		"log4js": ">=0.5.2"
+	}
+}
